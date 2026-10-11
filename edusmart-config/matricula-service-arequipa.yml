@@ -1,0 +1,9 @@
+edusmart:
+  sede: "Campus Arequipa"
+  costo-credito: 95.00
+  max-creditos-ciclo: 20
+  mensaje-bienvenida: "Bienvenido al Sistema de Matrícula - Sede Arequipa (Grupo 10)"
+  limite-cuotas-pago: 4
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/edusmart_arequipa_db

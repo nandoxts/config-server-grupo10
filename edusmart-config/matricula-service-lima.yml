@@ -1,0 +1,9 @@
+edusmart:
+  sede: "Campus Lima Central"
+  costo-credito: 120.00
+  max-creditos-ciclo: 22
+  mensaje-bienvenida: "Bienvenido al Sistema de Matrícula - Sede Lima (Grupo 10)"
+  limite-cuotas-pago: 5
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/edusmart_lima_db
